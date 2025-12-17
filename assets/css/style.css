@@ -789,7 +789,7 @@ a {
 }
 
 .integrate-banner-img {
-  margin-left: 20px;
+  margin-left: clamp(0rem, -0.2627rem + 1.2739vw, 1.25rem);
 }
 
 /* Product section */
